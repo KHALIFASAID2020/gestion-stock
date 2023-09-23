@@ -43,7 +43,7 @@ export class MenuComponent {
         id: '22',
         titre: 'Mouvements du stock',
         icon: 'fa-solid fa-up-down-left-right',
-        url: '',
+        url: 'mvtstk',
       }]
   },
   {
